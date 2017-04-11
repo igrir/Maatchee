@@ -1,0 +1,638 @@
+TMaatchee
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/PrecompiledHeaders/Maatchee-Prefix-fmdhiqajefqtoufaftfthqwmwwyj/Maatchee-Prefix.pch.pch Maatchee/Maatchee-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Objects-normal/x86_64/GameOverScene.o /Users/giriputra/LAB/XCode/Maatchee/GameOverScene.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Objects-normal/x86_64/MyScene.o /Users/giriputra/LAB/XCode/Maatchee/Maatchee/MyScene.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Objects-normal/x86_64/MenuScene.o /Users/giriputra/LAB/XCode/Maatchee/Maatchee/MenuScene.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Objects-normal/x86_64/ArrowSprite.o /Users/giriputra/LAB/XCode/Maatchee/Maatchee/ArrowSprite.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Objects-normal/x86_64/GameScene.o /Users/giriputra/LAB/XCode/Maatchee/Maatchee/GameScene.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Objects-normal/x86_64/main.o /Users/giriputra/LAB/XCode/Maatchee/Maatchee/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Objects-normal/x86_64/AppDelegate.o /Users/giriputra/LAB/XCode/Maatchee/Maatchee/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Products/Debug/Maatchee.app/Contents/MacOS/Maatchee normal x86_64
+cCpResource Maatchee/Spaceship.png Build/Maatchee/Build/Products/Debug/Maatchee.app/Contents/Resources/Spaceship.png
+cCpResource arrow_bg.png Build/Maatchee/Build/Products/Debug/Maatchee.app/Contents/Resources/arrow_bg.png
+cCopyStringsFile /Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Products/Debug/Maatchee.app/Contents/Resources/en.lproj/InfoPlist.strings Maatchee/en.lproj/InfoPlist.strings
+cCpResource tutorial.png Build/Maatchee/Build/Products/Debug/Maatchee.app/Contents/Resources/tutorial.png
+cCpResource Maatchee/en.lproj/Credits.rtf Build/Maatchee/Build/Products/Debug/Maatchee.app/Contents/Resources/en.lproj/Credits.rtf
+cCpResource logo.png Build/Maatchee/Build/Products/Debug/Maatchee.app/Contents/Resources/logo.png
+cCpResource arrow.png Build/Maatchee/Build/Products/Debug/Maatchee.app/Contents/Resources/arrow.png
+cCompileXIB /Users/giriputra/LAB/XCode/Maatchee/Maatchee/MainMenu.xib
+cCpResource timer.png Build/Maatchee/Build/Products/Debug/Maatchee.app/Contents/Resources/timer.png
+cCompileAssetCatalog /Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Products/Debug/Maatchee.app/Contents/Resources /Users/giriputra/LAB/XCode/Maatchee/Maatchee/Images.xcassets
+cProcessInfoPlistFile /Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Products/Debug/Maatchee.app/Contents/Info.plist /Users/giriputra/LAB/XCode/Maatchee/Maatchee/Maatchee-Info.plist
+cTouch /Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Products/Debug/Maatchee.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
+c00000000530295C100000000000000AA
+t1392678337
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c00000000538EDE9C000000000000044C
+t1401872028
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000538EDE9C00000000000001DE
+t1401872028
+s478
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+c00000000538EDE9D000000000000253C
+t1401872029
+s9532
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/SpriteKit.framework/SpriteKit
+c00000000538EDEA30000000000010260
+t1401872035
+s66144
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000538EDEC50000000000000ADC
+t1401872069
+s2780
+
+N/Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Objects-normal/x86_64/AppDelegate.o
+t1406219421
+s39184
+
+N/Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Objects-normal/x86_64/ArrowSprite.o
+t1406219419
+s31552
+
+N/Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Objects-normal/x86_64/GameOverScene.o
+t1406219418
+s31768
+
+N/Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Objects-normal/x86_64/GameScene.o
+t1406219419
+s119064
+
+N/Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Objects-normal/x86_64/Maatchee.LinkFileList
+c0000000053D1349A00000000000003DC
+t1406219418
+s988
+
+N/Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Objects-normal/x86_64/MenuScene.o
+t1406219419
+s31492
+
+N/Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Objects-normal/x86_64/MyScene.o
+t1406219419
+s26800
+
+N/Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Objects-normal/x86_64/main.o
+t1406219419
+s3368
+
+N/Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/assetcatalog_dependencies.txt
+t1406219422
+s389
+
+N/Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/assetcatalog_generated_info.plist
+t1406219422
+s243
+
+N/Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/PrecompiledHeaders/Maatchee-Prefix-fmdhiqajefqtoufaftfthqwmwwyj/Maatchee-Prefix.pch.pch
+t1406219418
+s124560
+
+N/Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Products/Debug/Maatchee.app
+t1406219418
+s102
+
+N/Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Products/Debug/Maatchee.app/Contents/Info.plist
+t1406219422
+s1551
+
+N/Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Products/Debug/Maatchee.app/Contents/MacOS/Maatchee
+t1406219421
+s83340
+
+N/Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Products/Debug/Maatchee.app/Contents/PkgInfo
+t1406219422
+s8
+
+N/Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Products/Debug/Maatchee.app/Contents/Resources/MainMenu.nib
+t1406219421
+s6972
+
+N/Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Products/Debug/Maatchee.app/Contents/Resources/Spaceship.png
+t1406219421
+s134723
+
+N/Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Products/Debug/Maatchee.app/Contents/Resources/arrow.png
+t1406219421
+s4196
+
+N/Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Products/Debug/Maatchee.app/Contents/Resources/arrow_bg.png
+t1406219421
+s1491
+
+N/Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Products/Debug/Maatchee.app/Contents/Resources/en.lproj/Credits.rtf
+t1406219421
+s436
+
+N/Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Products/Debug/Maatchee.app/Contents/Resources/en.lproj/InfoPlist.strings
+t1406219421
+s92
+
+N/Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Products/Debug/Maatchee.app/Contents/Resources/logo.png
+t1406219421
+s64793
+
+N/Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Products/Debug/Maatchee.app/Contents/Resources/timer.png
+t1406219421
+s276
+
+N/Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Products/Debug/Maatchee.app/Contents/Resources/tutorial.png
+t1406219421
+s6180
+
+N/Users/giriputra/LAB/XCode/Maatchee/GameOverScene.m
+c0000000053D132C5000000000000071A
+t1406218949
+s1818
+
+N/Users/giriputra/LAB/XCode/Maatchee/Maatchee/AppDelegate.m
+c0000000053D127610000000000000321
+t1406216033
+s801
+
+N/Users/giriputra/LAB/XCode/Maatchee/Maatchee/ArrowSprite.m
+c0000000053D114F00000000000000666
+t1406211312
+s1638
+
+N/Users/giriputra/LAB/XCode/Maatchee/Maatchee/GameScene.m
+c0000000053D131F0000000000000620A
+t1406218736
+s25098
+
+N/Users/giriputra/LAB/XCode/Maatchee/Maatchee/Images.xcassets
+c0000000053D1344C0000000000000066
+t1406219340
+s102
+
+N/Users/giriputra/LAB/XCode/Maatchee/Maatchee/Maatchee-Info.plist
+c0000000053D034C4000000000000049E
+t1406153924
+s1182
+
+N/Users/giriputra/LAB/XCode/Maatchee/Maatchee/Maatchee-Prefix.pch
+c0000000053D034C400000000000000AC
+t1406153924
+s172
+
+N/Users/giriputra/LAB/XCode/Maatchee/Maatchee/MainMenu.xib
+c0000000053D034C40000000000001F99
+t1406153924
+s8089
+
+N/Users/giriputra/LAB/XCode/Maatchee/Maatchee/MenuScene.m
+c0000000053D130230000000000000804
+t1406218275
+s2052
+
+N/Users/giriputra/LAB/XCode/Maatchee/Maatchee/MyScene.m
+c0000000053D0355C00000000000005B9
+t1406154076
+s1465
+
+N/Users/giriputra/LAB/XCode/Maatchee/Maatchee/Spaceship.png
+c0000000052D6E7C50000000000020E43
+t1389815749
+s134723
+
+N/Users/giriputra/LAB/XCode/Maatchee/Maatchee/en.lproj/Credits.rtf
+c0000000053D034C400000000000001B4
+t1406153924
+s436
+
+N/Users/giriputra/LAB/XCode/Maatchee/Maatchee/en.lproj/InfoPlist.strings
+c0000000053D034C4000000000000002D
+t1406153924
+s45
+
+N/Users/giriputra/LAB/XCode/Maatchee/Maatchee/main.m
+c0000000053D034C400000000000000F8
+t1406153924
+s248
+
+N/Users/giriputra/LAB/XCode/Maatchee/arrow.png
+c0000000053D05F130000000000001064
+t1406164755
+s4196
+
+N/Users/giriputra/LAB/XCode/Maatchee/arrow_bg.png
+c0000000053D05F5F00000000000005D3
+t1406164831
+s1491
+
+N/Users/giriputra/LAB/XCode/Maatchee/logo.png
+c0000000053D12776000000000000FD19
+t1406216054
+s64793
+
+N/Users/giriputra/LAB/XCode/Maatchee/timer.png
+c0000000053D0C70B0000000000000114
+t1406191371
+s276
+
+N/Users/giriputra/LAB/XCode/Maatchee/tutorial.png
+c0000000053D038AD0000000000001824
+t1406154925
+s6180
+
+CBuild AST from /Users/giriputra/LAB/XCode/Maatchee/GameOverScene.m
+r0
+
+CBuild AST from /Users/giriputra/LAB/XCode/Maatchee/Maatchee/AppDelegate.m
+r0
+
+CBuild AST from /Users/giriputra/LAB/XCode/Maatchee/Maatchee/ArrowSprite.m
+r0
+
+CBuild AST from /Users/giriputra/LAB/XCode/Maatchee/Maatchee/GameScene.m
+r0
+
+CBuild AST from /Users/giriputra/LAB/XCode/Maatchee/Maatchee/MenuScene.m
+r0
+
+CBuild AST from /Users/giriputra/LAB/XCode/Maatchee/Maatchee/MyScene.m
+r0
+
+CBuild AST from /Users/giriputra/LAB/XCode/Maatchee/Maatchee/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciese410051a6c81b941^9549191a6c81b941^---0#1#1#--18"Check dependencies36"A1EE6CD3-8EC3-418F-AFF6-D8D065978F27-
+
+CCompileAssetCatalog /Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Products/Debug/Maatchee.app/Contents/Resources /Users/giriputra/LAB/XCode/Maatchee/Maatchee/Images.xcassets
+s427912221.248640
+e427912222.870880
+r1
+xCompileAssetCatalog
+x/Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Products/Debug/Maatchee.app/Contents/Resources
+x/Users/giriputra/LAB/XCode/Maatchee/Maatchee/Images.xcassets
+o/* com.apple.actool.document.warnings */
+o/Users/giriputra/LAB/XCode/Maatchee/Maatchee/Images.xcassets:./AppIcon.appiconset/[mac][32x32][2x]: warning: AppIcon.appiconset/icon_32-1.png is 500x500 but should be 64x64.
+o/Users/giriputra/LAB/XCode/Maatchee/Maatchee/Images.xcassets:./AppIcon.appiconset/[mac][256x256][1x]: warning: AppIcon.appiconset/icon_256.png is 500x500 but should be 256x256.
+o/Users/giriputra/LAB/XCode/Maatchee/Maatchee/Images.xcassets:./AppIcon.appiconset/[mac][128x128][1x]: warning: AppIcon.appiconset/icon_128.png is 500x500 but should be 128x128.
+o/Users/giriputra/LAB/XCode/Maatchee/Maatchee/Images.xcassets:./AppIcon.appiconset/[mac][512x512][2x]: warning: AppIcon.appiconset/icon_512-1.png is 512x512 but should be 1024x1024.
+o/Users/giriputra/LAB/XCode/Maatchee/Maatchee/Images.xcassets:./AppIcon.appiconset/[mac][128x128][2x]: warning: AppIcon.appiconset/icon_128-1.png is 500x500 but should be 256x256.
+o/Users/giriputra/LAB/XCode/Maatchee/Maatchee/Images.xcassets:./AppIcon.appiconset/[mac][16x16][2x]: warning: AppIcon.appiconset/icon_16-1.png is 500x500 but should be 32x32.
+o/Users/giriputra/LAB/XCode/Maatchee/Maatchee/Images.xcassets:./AppIcon.appiconset/[mac][32x32][1x]: warning: AppIcon.appiconset/icon_32.png is 500x500 but should be 32x32.
+o/Users/giriputra/LAB/XCode/Maatchee/Maatchee/Images.xcassets:./AppIcon.appiconset/[mac][256x256][2x]: warning: AppIcon.appiconset/icon_256-1.png is 500x500 but should be 512x512.
+o/Users/giriputra/LAB/XCode/Maatchee/Maatchee/Images.xcassets:./AppIcon.appiconset/[mac][16x16][1x]: warning: AppIcon.appiconset/icon_16.png is 500x500 but should be 16x16.
+o/* com.apple.actool.compilation-results */
+o/Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Products/Debug/Maatchee.app/Contents/Resources/AppIcon.icns
+o/Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Products/Debug/Maatchee.app/Contents/Resources/Assets.car
+o/Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"CompileAssetCatalog Build/Maatchee/Build/Products/Debug/Maatchee.app/Contents/Resources Maatchee/Images.xcassets112"CompileAssetCatalog Build/Maatchee/Build/Products/Debug/Maatchee.app/Contents/Resources Maatchee/Images.xcassetsbfb53f1d6c81b941^84f2de1e6c81b941^-2043"/* com.apple.actool.document.warnings *//Users/giriputra/LAB/XCode/Maatchee/Maatchee/Images.xcassets:./AppIcon.appiconset/[mac][32x32][2x]: warning: AppIcon.appiconset/icon_32-1.png is 500x500 but should be 64x64./Users/giriputra/LAB/XCode/Maatchee/Maatchee/Images.xcassets:./AppIcon.appiconset/[mac][256x256][1x]: warning: AppIcon.appiconset/icon_256.png is 500x500 but should be 256x256./Users/giriputra/LAB/XCode/Maatchee/Maatchee/Images.xcassets:./AppIcon.appiconset/[mac][128x128][1x]: warning: AppIcon.appiconset/icon_128.png is 500x500 but should be 128x128./Users/giriputra/LAB/XCode/Maatchee/Maatchee/Images.xcassets:./AppIcon.appiconset/[mac][512x512][2x]: warning: AppIcon.appiconset/icon_512-1.png is 512x512 but should be 1024x1024./Users/giriputra/LAB/XCode/Maatchee/Maatchee/Images.xcassets:./AppIcon.appiconset/[mac][128x128][2x]: warning: AppIcon.appiconset/icon_128-1.png is 500x500 but should be 256x256./Users/giriputra/LAB/XCode/Maatchee/Maatchee/Images.xcassets:./AppIcon.appiconset/[mac][16x16][2x]: warning: AppIcon.appiconset/icon_16-1.png is 500x500 but should be 32x32./Users/giriputra/LAB/XCode/Maatchee/Maatchee/Images.xcassets:./AppIcon.appiconset/[mac][32x32][1x]: warning: AppIcon.appiconset/icon_32.png is 500x500 but should be 32x32./Users/giriputra/LAB/XCode/Maatchee/Maatchee/Images.xcassets:./AppIcon.appiconset/[mac][256x256][2x]: warning: AppIcon.appiconset/icon_256-1.png is 500x500 but should be 512x512./Users/giriputra/LAB/XCode/Maatchee/Maatchee/Images.xcassets:./AppIcon.appiconset/[mac][16x16][1x]: warning: AppIcon.appiconset/icon_16.png is 500x500 but should be 16x16./* com.apple.actool.compilation-results *//Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Products/Debug/Maatchee.app/Contents/Resources/AppIcon.icns/Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Products/Debug/Maatchee.app/Contents/Resources/Assets.car/Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/assetcatalog_generated_info.plist9(21%IDEActivityLogMessage2@64"AppIcon.appiconset/icon_32-1.png is 500x500 but should be 64x64.-427912222#18446744073709551615#0#-1#-23%DVTTextDocumentLocation3@68"file:///Users/giriputra/LAB/XCode/Maatchee/Maatchee/Images.xcassets/0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Asset Catalog Compiler Warning--2@65"AppIcon.appiconset/icon_256.png is 500x500 but should be 256x256.-427912222#18446744073709551615#0#-1#-3@68"file:///Users/giriputra/LAB/XCode/Maatchee/Maatchee/Images.xcassets/0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Asset Catalog Compiler Warning--2@65"AppIcon.appiconset/icon_128.png is 500x500 but should be 128x128.-427912222#18446744073709551615#0#-1#-3@68"file:///Users/giriputra/LAB/XCode/Maatchee/Maatchee/Images.xcassets/0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Asset Catalog Compiler Warning--2@69"AppIcon.appiconset/icon_512-1.png is 512x512 but should be 1024x1024.-427912222#18446744073709551615#0#-1#-3@68"file:///Users/giriputra/LAB/XCode/Maatchee/Maatchee/Images.xcassets/0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Asset Catalog Compiler Warning--2@67"AppIcon.appiconset/icon_128-1.png is 500x500 but should be 256x256.-427912222#18446744073709551615#0#-1#-3@68"file:///Users/giriputra/LAB/XCode/Maatchee/Maatchee/Images.xcassets/0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Asset Catalog Compiler Warning--2@64"AppIcon.appiconset/icon_16-1.png is 500x500 but should be 32x32.-427912222#18446744073709551615#0#-1#-3@68"file:///Users/giriputra/LAB/XCode/Maatchee/Maatchee/Images.xcassets/0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Asset Catalog Compiler Warning--2@62"AppIcon.appiconset/icon_32.png is 500x500 but should be 32x32.-427912222#18446744073709551615#0#-1#-3@68"file:///Users/giriputra/LAB/XCode/Maatchee/Maatchee/Images.xcassets/0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Asset Catalog Compiler Warning--2@67"AppIcon.appiconset/icon_256-1.png is 500x500 but should be 512x512.-427912222#18446744073709551615#0#-1#-3@68"file:///Users/giriputra/LAB/XCode/Maatchee/Maatchee/Images.xcassets/0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Asset Catalog Compiler Warning--2@62"AppIcon.appiconset/icon_16.png is 500x500 but should be 16x16.-427912222#18446744073709551615#0#-1#-3@68"file:///Users/giriputra/LAB/XCode/Maatchee/Maatchee/Images.xcassets/0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Asset Catalog Compiler Warning--0#0#1#-19%DVTDocumentLocation4@68"file:///Users/giriputra/LAB/XCode/Maatchee/Maatchee/Images.xcassets/0000000000000000^871"CompileAssetCatalog Build/Maatchee/Build/Products/Debug/Maatchee.app/Contents/Resources Maatchee/Images.xcassets    cd /Users/giriputra/LAB/XCode/Maatchee    /Applications/Xcode.app/Contents/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/assetcatalog_generated_info.plist --app-icon AppIcon --platform macosx --minimum-deployment-target 10.9 --target-device mac --compile /Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Products/Debug/Maatchee.app/Contents/Resources /Users/giriputra/LAB/XCode/Maatchee/Maatchee/Images.xcassets36"58CC1B64-A263-4877-BA1B-DF482264AFA1-
+b53F0A0DE-8F87-40AF-A5FC-6B0A46F73E79
+
+CCompileC Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Objects-normal/x86_64/AppDelegate.o /Users/giriputra/LAB/XCode/Maatchee/Maatchee/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s427912219.554893
+e427912221.059586
+r1
+xCompileC
+xBuild/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Objects-normal/x86_64/AppDelegate.o
+x/Users/giriputra/LAB/XCode/Maatchee/Maatchee/AppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/giriputra/LAB/XCode/Maatchee/Maatchee/AppDelegate.m
+d/Users/giriputra/LAB/XCode/Maatchee/Maatchee/AppDelegate.h
+d/Users/giriputra/LAB/XCode/Maatchee/Maatchee/MyScene.h
+d/Users/giriputra/LAB/XCode/Maatchee/Maatchee/MenuScene.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Compile /Users/giriputra/LAB/XCode/Maatchee/Maatchee/AppDelegate.m208"CompileC Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Objects-normal/x86_64/AppDelegate.o Maatchee/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler232c8e1b6c81b941^a7cc191d6c81b941^---0#0#1#-19%DVTDocumentLocation2@65"file:///Users/giriputra/LAB/XCode/Maatchee/Maatchee/AppDelegate.m0000000000000000^3372"CompileC Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Objects-normal/x86_64/AppDelegate.o Maatchee/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/giriputra/LAB/XCode/Maatchee    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/giriputra/LAB/XCode/Maatchee/Build/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Maatchee-generated-files.hmap -I/Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Maatchee-own-target-headers.hmap -I/Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Maatchee-all-target-headers.hmap -iquote /Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Maatchee-project-headers.hmap -I/Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/DerivedSources/x86_64 -I/Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/DerivedSources -F/Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Products/Debug -include /Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/PrecompiledHeaders/Maatchee-Prefix-fmdhiqajefqtoufaftfthqwmwwyj/Maatchee-Prefix.pch -MMD -MT dependencies -MF /Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Objects-normal/x86_64/AppDelegate.d --serialize-diagnostics /Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Objects-normal/x86_64/AppDelegate.dia -c /Users/giriputra/LAB/XCode/Maatchee/Maatchee/AppDelegate.m -o /Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Objects-normal/x86_64/AppDelegate.o36"C4F1A593-3301-43FD-9583-B42DCF6EB83F-
+b53F0A0DE-8F87-40AF-A5FC-6B0A46F73E79
+
+CCompileC Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Objects-normal/x86_64/ArrowSprite.o /Users/giriputra/LAB/XCode/Maatchee/Maatchee/ArrowSprite.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s427912219.189958
+e427912219.337866
+r1
+xCompileC
+xBuild/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Objects-normal/x86_64/ArrowSprite.o
+x/Users/giriputra/LAB/XCode/Maatchee/Maatchee/ArrowSprite.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/giriputra/LAB/XCode/Maatchee/Maatchee/ArrowSprite.m
+d/Users/giriputra/LAB/XCode/Maatchee/Maatchee/ArrowSprite.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Compile /Users/giriputra/LAB/XCode/Maatchee/Maatchee/ArrowSprite.m208"CompileC Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Objects-normal/x86_64/ArrowSprite.o Maatchee/ArrowSprite.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilera1bb301b6c81b941^2c9e561b6c81b941^---0#0#1#-19%DVTDocumentLocation2@65"file:///Users/giriputra/LAB/XCode/Maatchee/Maatchee/ArrowSprite.m0000000000000000^3372"CompileC Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Objects-normal/x86_64/ArrowSprite.o Maatchee/ArrowSprite.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/giriputra/LAB/XCode/Maatchee    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/giriputra/LAB/XCode/Maatchee/Build/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Maatchee-generated-files.hmap -I/Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Maatchee-own-target-headers.hmap -I/Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Maatchee-all-target-headers.hmap -iquote /Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Maatchee-project-headers.hmap -I/Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/DerivedSources/x86_64 -I/Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/DerivedSources -F/Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Products/Debug -include /Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/PrecompiledHeaders/Maatchee-Prefix-fmdhiqajefqtoufaftfthqwmwwyj/Maatchee-Prefix.pch -MMD -MT dependencies -MF /Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Objects-normal/x86_64/ArrowSprite.d --serialize-diagnostics /Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Objects-normal/x86_64/ArrowSprite.dia -c /Users/giriputra/LAB/XCode/Maatchee/Maatchee/ArrowSprite.m -o /Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Objects-normal/x86_64/ArrowSprite.o36"7265DB02-CBFF-40F2-8C53-FD9D4619DFC0-
+b53F0A0DE-8F87-40AF-A5FC-6B0A46F73E79
+
+CCompileC Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Objects-normal/x86_64/GameOverScene.o /Users/giriputra/LAB/XCode/Maatchee/GameOverScene.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s427912218.809121
+e427912219.155887
+r1
+xCompileC
+xBuild/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Objects-normal/x86_64/GameOverScene.o
+x/Users/giriputra/LAB/XCode/Maatchee/GameOverScene.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/giriputra/LAB/XCode/Maatchee/GameOverScene.m
+d/Users/giriputra/LAB/XCode/Maatchee/GameOverScene.h
+d/Users/giriputra/LAB/XCode/Maatchee/Maatchee/MenuScene.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Compile /Users/giriputra/LAB/XCode/Maatchee/GameOverScene.m203"CompileC Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Objects-normal/x86_64/GameOverScene.o GameOverScene.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler033ecf1a6c81b941^cbf8271b6c81b941^---0#0#1#-19%DVTDocumentLocation2@58"file:///Users/giriputra/LAB/XCode/Maatchee/GameOverScene.m0000000000000000^3366"CompileC Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Objects-normal/x86_64/GameOverScene.o GameOverScene.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/giriputra/LAB/XCode/Maatchee    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/giriputra/LAB/XCode/Maatchee/Build/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Maatchee-generated-files.hmap -I/Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Maatchee-own-target-headers.hmap -I/Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Maatchee-all-target-headers.hmap -iquote /Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Maatchee-project-headers.hmap -I/Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/DerivedSources/x86_64 -I/Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/DerivedSources -F/Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Products/Debug -include /Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/PrecompiledHeaders/Maatchee-Prefix-fmdhiqajefqtoufaftfthqwmwwyj/Maatchee-Prefix.pch -MMD -MT dependencies -MF /Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Objects-normal/x86_64/GameOverScene.d --serialize-diagnostics /Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Objects-normal/x86_64/GameOverScene.dia -c /Users/giriputra/LAB/XCode/Maatchee/GameOverScene.m -o /Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Objects-normal/x86_64/GameOverScene.o36"AAE24D10-E1C7-48E7-BF93-8AB011A350A8-
+b53F0A0DE-8F87-40AF-A5FC-6B0A46F73E79
+
+CCompileC Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Objects-normal/x86_64/GameScene.o /Users/giriputra/LAB/XCode/Maatchee/Maatchee/GameScene.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s427912219.296247
+e427912219.567762
+r1
+xCompileC
+xBuild/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Objects-normal/x86_64/GameScene.o
+x/Users/giriputra/LAB/XCode/Maatchee/Maatchee/GameScene.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/giriputra/LAB/XCode/Maatchee/Maatchee/GameScene.m
+d/Users/giriputra/LAB/XCode/Maatchee/Maatchee/GameScene.h
+d/Users/giriputra/LAB/XCode/Maatchee/GameOverScene.h
+d/Users/giriputra/LAB/XCode/Maatchee/Maatchee/ArrowSprite.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Compile /Users/giriputra/LAB/XCode/Maatchee/Maatchee/GameScene.m204"CompileC Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Objects-normal/x86_64/GameScene.o Maatchee/GameScene.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler06f34b1b6c81b941^7159911b6c81b941^---0#0#1#-19%DVTDocumentLocation2@63"file:///Users/giriputra/LAB/XCode/Maatchee/Maatchee/GameScene.m0000000000000000^3360"CompileC Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Objects-normal/x86_64/GameScene.o Maatchee/GameScene.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/giriputra/LAB/XCode/Maatchee    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/giriputra/LAB/XCode/Maatchee/Build/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Maatchee-generated-files.hmap -I/Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Maatchee-own-target-headers.hmap -I/Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Maatchee-all-target-headers.hmap -iquote /Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Maatchee-project-headers.hmap -I/Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/DerivedSources/x86_64 -I/Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/DerivedSources -F/Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Products/Debug -include /Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/PrecompiledHeaders/Maatchee-Prefix-fmdhiqajefqtoufaftfthqwmwwyj/Maatchee-Prefix.pch -MMD -MT dependencies -MF /Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Objects-normal/x86_64/GameScene.d --serialize-diagnostics /Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Objects-normal/x86_64/GameScene.dia -c /Users/giriputra/LAB/XCode/Maatchee/Maatchee/GameScene.m -o /Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Objects-normal/x86_64/GameScene.o36"025B5FCD-8139-403D-A8AD-958417EB6BA7-
+b53F0A0DE-8F87-40AF-A5FC-6B0A46F73E79
+
+CCompileC Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Objects-normal/x86_64/MenuScene.o /Users/giriputra/LAB/XCode/Maatchee/Maatchee/MenuScene.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s427912219.156370
+e427912219.295549
+r1
+xCompileC
+xBuild/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Objects-normal/x86_64/MenuScene.o
+x/Users/giriputra/LAB/XCode/Maatchee/Maatchee/MenuScene.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/giriputra/LAB/XCode/Maatchee/Maatchee/MenuScene.m
+d/Users/giriputra/LAB/XCode/Maatchee/Maatchee/MenuScene.h
+d/Users/giriputra/LAB/XCode/Maatchee/Maatchee/GameScene.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Compile /Users/giriputra/LAB/XCode/Maatchee/Maatchee/MenuScene.m204"CompileC Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Objects-normal/x86_64/MenuScene.o Maatchee/MenuScene.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilera627281b6c81b941^57b24b1b6c81b941^---0#0#1#-19%DVTDocumentLocation2@63"file:///Users/giriputra/LAB/XCode/Maatchee/Maatchee/MenuScene.m0000000000000000^3360"CompileC Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Objects-normal/x86_64/MenuScene.o Maatchee/MenuScene.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/giriputra/LAB/XCode/Maatchee    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/giriputra/LAB/XCode/Maatchee/Build/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Maatchee-generated-files.hmap -I/Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Maatchee-own-target-headers.hmap -I/Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Maatchee-all-target-headers.hmap -iquote /Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Maatchee-project-headers.hmap -I/Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/DerivedSources/x86_64 -I/Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/DerivedSources -F/Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Products/Debug -include /Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/PrecompiledHeaders/Maatchee-Prefix-fmdhiqajefqtoufaftfthqwmwwyj/Maatchee-Prefix.pch -MMD -MT dependencies -MF /Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Objects-normal/x86_64/MenuScene.d --serialize-diagnostics /Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Objects-normal/x86_64/MenuScene.dia -c /Users/giriputra/LAB/XCode/Maatchee/Maatchee/MenuScene.m -o /Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Objects-normal/x86_64/MenuScene.o36"46AE7BDE-A7A5-4A11-9256-B892C77BDB69-
+b53F0A0DE-8F87-40AF-A5FC-6B0A46F73E79
+
+CCompileC Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Objects-normal/x86_64/MyScene.o /Users/giriputra/LAB/XCode/Maatchee/Maatchee/MyScene.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s427912218.810384
+e427912219.189605
+r1
+xCompileC
+xBuild/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Objects-normal/x86_64/MyScene.o
+x/Users/giriputra/LAB/XCode/Maatchee/Maatchee/MyScene.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/giriputra/LAB/XCode/Maatchee/Maatchee/MyScene.m
+d/Users/giriputra/LAB/XCode/Maatchee/Maatchee/MyScene.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Compile /Users/giriputra/LAB/XCode/Maatchee/Maatchee/MyScene.m200"CompileC Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Objects-normal/x86_64/MyScene.o Maatchee/MyScene.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerbd8fcf1a6c81b941^7dea301b6c81b941^---0#0#1#-19%DVTDocumentLocation2@61"file:///Users/giriputra/LAB/XCode/Maatchee/Maatchee/MyScene.m0000000000000000^3348"CompileC Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Objects-normal/x86_64/MyScene.o Maatchee/MyScene.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/giriputra/LAB/XCode/Maatchee    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/giriputra/LAB/XCode/Maatchee/Build/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Maatchee-generated-files.hmap -I/Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Maatchee-own-target-headers.hmap -I/Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Maatchee-all-target-headers.hmap -iquote /Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Maatchee-project-headers.hmap -I/Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/DerivedSources/x86_64 -I/Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/DerivedSources -F/Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Products/Debug -include /Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/PrecompiledHeaders/Maatchee-Prefix-fmdhiqajefqtoufaftfthqwmwwyj/Maatchee-Prefix.pch -MMD -MT dependencies -MF /Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Objects-normal/x86_64/MyScene.d --serialize-diagnostics /Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Objects-normal/x86_64/MyScene.dia -c /Users/giriputra/LAB/XCode/Maatchee/Maatchee/MyScene.m -o /Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Objects-normal/x86_64/MyScene.o36"3FEF08B9-4468-452F-BC35-F9BA6605134B-
+b53F0A0DE-8F87-40AF-A5FC-6B0A46F73E79
+
+CCompileC Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Objects-normal/x86_64/main.o /Users/giriputra/LAB/XCode/Maatchee/Maatchee/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s427912219.338277
+e427912219.554613
+r1
+xCompileC
+xBuild/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Objects-normal/x86_64/main.o
+x/Users/giriputra/LAB/XCode/Maatchee/Maatchee/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/giriputra/LAB/XCode/Maatchee/Maatchee/main.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Compile /Users/giriputra/LAB/XCode/Maatchee/Maatchee/main.m194"CompileC Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Objects-normal/x86_64/main.o Maatchee/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler80b5561b6c81b941^e1f18d1b6c81b941^---0#0#1#-19%DVTDocumentLocation2@58"file:///Users/giriputra/LAB/XCode/Maatchee/Maatchee/main.m0000000000000000^3330"CompileC Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Objects-normal/x86_64/main.o Maatchee/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/giriputra/LAB/XCode/Maatchee    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/giriputra/LAB/XCode/Maatchee/Build/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Maatchee-generated-files.hmap -I/Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Maatchee-own-target-headers.hmap -I/Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Maatchee-all-target-headers.hmap -iquote /Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Maatchee-project-headers.hmap -I/Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/DerivedSources/x86_64 -I/Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/DerivedSources -F/Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Products/Debug -include /Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/PrecompiledHeaders/Maatchee-Prefix-fmdhiqajefqtoufaftfthqwmwwyj/Maatchee-Prefix.pch -MMD -MT dependencies -MF /Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Objects-normal/x86_64/main.dia -c /Users/giriputra/LAB/XCode/Maatchee/Maatchee/main.m -o /Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Objects-normal/x86_64/main.o36"2B0F9CF3-7B9B-43A3-9152-74CF9E66CA4E-
+b53F0A0DE-8F87-40AF-A5FC-6B0A46F73E79
+
+CCompileXIB /Users/giriputra/LAB/XCode/Maatchee/Maatchee/MainMenu.xib
+s427912221.193788
+e427912221.281396
+r1
+xCompileXIB
+x/Users/giriputra/LAB/XCode/Maatchee/Maatchee/MainMenu.xib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Compiling /Users/giriputra/LAB/XCode/Maatchee/Maatchee/MainMenu.xib32"CompileXIB Maatchee/MainMenu.xibfbad311d6c81b941^a987481d6c81b941^---0#0#1#-19%DVTDocumentLocation2@64"file:///Users/giriputra/LAB/XCode/Maatchee/Maatchee/MainMenu.xib0000000000000000^512"CompileXIB Maatchee/MainMenu.xib    cd /Users/giriputra/LAB/XCode/Maatchee    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 10.9 --output-format human-readable-text --compile /Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Products/Debug/Maatchee.app/Contents/Resources/MainMenu.nib /Users/giriputra/LAB/XCode/Maatchee/Maatchee/MainMenu.xib36"1E939866-EF77-46EE-B3C3-8186A2B89146-
+b53F0A0DE-8F87-40AF-A5FC-6B0A46F73E79
+
+CCopyStringsFile /Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Products/Debug/Maatchee.app/Contents/Resources/en.lproj/InfoPlist.strings Maatchee/en.lproj/InfoPlist.strings
+s427912221.179490
+e427912221.246681
+r1
+xCopyStringsFile
+x/Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Products/Debug/Maatchee.app/Contents/Resources/en.lproj/InfoPlist.strings
+xMaatchee/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection40"Copy Maatchee/en.lproj/InfoPlist.strings146"CopyStringsFile Build/Maatchee/Build/Products/Debug/Maatchee.app/Contents/Resources/en.lproj/InfoPlist.strings Maatchee/en.lproj/InfoPlist.stringsa9112e1d6c81b941^f2d03f1d6c81b941^---0#0#1#-19%DVTDocumentLocation2@78"file:///Users/giriputra/LAB/XCode/Maatchee/Maatchee/en.lproj/InfoPlist.strings0000000000000000^432"CopyStringsFile Build/Maatchee/Build/Products/Debug/Maatchee.app/Contents/Resources/en.lproj/InfoPlist.strings Maatchee/en.lproj/InfoPlist.strings    cd /Users/giriputra/LAB/XCode/Maatchee    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding UTF-16 --outdir /Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Products/Debug/Maatchee.app/Contents/Resources/en.lproj -- Maatchee/en.lproj/InfoPlist.strings36"7961DE48-BAC8-4032-AD80-770A00BE84C5-
+b53F0A0DE-8F87-40AF-A5FC-6B0A46F73E79
+
+CCpResource Maatchee/Spaceship.png Build/Maatchee/Build/Products/Debug/Maatchee.app/Contents/Resources/Spaceship.png
+s427912221.170728
+e427912221.181067
+r1
+xCpResource
+xMaatchee/Spaceship.png
+xBuild/Maatchee/Build/Products/Debug/Maatchee.app/Contents/Resources/Spaceship.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Copy Build/Maatchee/Build/Products/Debug/Maatchee.app/Contents/Resources/Spaceship.png115"CpResource Maatchee/Spaceship.png Build/Maatchee/Build/Products/Debug/Maatchee.app/Contents/Resources/Spaceship.png93c32b1d6c81b941^4caa3e1d6c81b941^---0#0#1#-19%DVTDocumentLocation2@124"file:///Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Products/Debug/Maatchee.app/Contents/Resources/Spaceship.png00345cb1deffdf42^434"CpResource Maatchee/Spaceship.png Build/Maatchee/Build/Products/Debug/Maatchee.app/Contents/Resources/Spaceship.png    cd /Users/giriputra/LAB/XCode/Maatchee    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/giriputra/LAB/XCode/Maatchee/Maatchee/Spaceship.png /Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Products/Debug/Maatchee.app/Contents/Resources36"B8EDD25A-BE3A-4A24-BC2B-C9CEB02B6B10-
+b53F0A0DE-8F87-40AF-A5FC-6B0A46F73E79
+
+CCpResource Maatchee/en.lproj/Credits.rtf Build/Maatchee/Build/Products/Debug/Maatchee.app/Contents/Resources/en.lproj/Credits.rtf
+s427912221.183454
+e427912221.185576
+r1
+xCpResource
+xMaatchee/en.lproj/Credits.rtf
+xBuild/Maatchee/Build/Products/Debug/Maatchee.app/Contents/Resources/en.lproj/Credits.rtf
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Copy Build/Maatchee/Build/Products/Debug/Maatchee.app/Contents/Resources/en.lproj/Credits.rtf129"CpResource Maatchee/en.lproj/Credits.rtf Build/Maatchee/Build/Products/Debug/Maatchee.app/Contents/Resources/en.lproj/Credits.rtf2d062f1d6c81b941^a1b93e1d6c81b941^---0#0#1#-19%DVTDocumentLocation2@131"file:///Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Products/Debug/Maatchee.app/Contents/Resources/en.lproj/Credits.rtf00345cb1deffdf42^464"CpResource Maatchee/en.lproj/Credits.rtf Build/Maatchee/Build/Products/Debug/Maatchee.app/Contents/Resources/en.lproj/Credits.rtf    cd /Users/giriputra/LAB/XCode/Maatchee    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/giriputra/LAB/XCode/Maatchee/Maatchee/en.lproj/Credits.rtf /Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Products/Debug/Maatchee.app/Contents/Resources/en.lproj36"C904082D-D133-4A9F-A075-98A5602608C6-
+b53F0A0DE-8F87-40AF-A5FC-6B0A46F73E79
+
+CCpResource arrow.png Build/Maatchee/Build/Products/Debug/Maatchee.app/Contents/Resources/arrow.png
+s427912221.188221
+e427912221.193172
+r1
+xCpResource
+xarrow.png
+xBuild/Maatchee/Build/Products/Debug/Maatchee.app/Contents/Resources/arrow.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Copy Build/Maatchee/Build/Products/Debug/Maatchee.app/Contents/Resources/arrow.png98"CpResource arrow.png Build/Maatchee/Build/Products/Debug/Maatchee.app/Contents/Resources/arrow.png7d3c301d6c81b941^5dc53e1d6c81b941^---0#0#1#-19%DVTDocumentLocation2@120"file:///Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Products/Debug/Maatchee.app/Contents/Resources/arrow.png00345cb1deffdf42^404"CpResource arrow.png Build/Maatchee/Build/Products/Debug/Maatchee.app/Contents/Resources/arrow.png    cd /Users/giriputra/LAB/XCode/Maatchee    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/giriputra/LAB/XCode/Maatchee/arrow.png /Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Products/Debug/Maatchee.app/Contents/Resources36"1AB7840D-F213-4F7E-82CE-040139B75606-
+b53F0A0DE-8F87-40AF-A5FC-6B0A46F73E79
+
+CCpResource arrow_bg.png Build/Maatchee/Build/Products/Debug/Maatchee.app/Contents/Resources/arrow_bg.png
+s427912221.171543
+e427912221.179215
+r1
+xCpResource
+xarrow_bg.png
+xBuild/Maatchee/Build/Products/Debug/Maatchee.app/Contents/Resources/arrow_bg.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Copy Build/Maatchee/Build/Products/Debug/Maatchee.app/Contents/Resources/arrow_bg.png104"CpResource arrow_bg.png Build/Maatchee/Build/Products/Debug/Maatchee.app/Contents/Resources/arrow_bg.pnga0fe2b1d6c81b941^12a43e1d6c81b941^---0#0#1#-19%DVTDocumentLocation2@123"file:///Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Products/Debug/Maatchee.app/Contents/Resources/arrow_bg.png00345cb1deffdf42^413"CpResource arrow_bg.png Build/Maatchee/Build/Products/Debug/Maatchee.app/Contents/Resources/arrow_bg.png    cd /Users/giriputra/LAB/XCode/Maatchee    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/giriputra/LAB/XCode/Maatchee/arrow_bg.png /Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Products/Debug/Maatchee.app/Contents/Resources36"8C875159-F591-49EA-8F86-7AF9067F42AC-
+b53F0A0DE-8F87-40AF-A5FC-6B0A46F73E79
+
+CCpResource logo.png Build/Maatchee/Build/Products/Debug/Maatchee.app/Contents/Resources/logo.png
+s427912221.185746
+e427912221.188018
+r1
+xCpResource
+xlogo.png
+xBuild/Maatchee/Build/Products/Debug/Maatchee.app/Contents/Resources/logo.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Copy Build/Maatchee/Build/Products/Debug/Maatchee.app/Contents/Resources/logo.png96"CpResource logo.png Build/Maatchee/Build/Products/Debug/Maatchee.app/Contents/Resources/logo.pnga2992f1d6c81b941^98bf3e1d6c81b941^---0#0#1#-19%DVTDocumentLocation2@119"file:///Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Products/Debug/Maatchee.app/Contents/Resources/logo.png00345cb1deffdf42^401"CpResource logo.png Build/Maatchee/Build/Products/Debug/Maatchee.app/Contents/Resources/logo.png    cd /Users/giriputra/LAB/XCode/Maatchee    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/giriputra/LAB/XCode/Maatchee/logo.png /Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Products/Debug/Maatchee.app/Contents/Resources36"5ADAB234-396C-43D2-8418-96B2AE6652B8-
+b53F0A0DE-8F87-40AF-A5FC-6B0A46F73E79
+
+CCpResource timer.png Build/Maatchee/Build/Products/Debug/Maatchee.app/Contents/Resources/timer.png
+s427912221.246879
+e427912221.248483
+r1
+xCpResource
+xtimer.png
+xBuild/Maatchee/Build/Products/Debug/Maatchee.app/Contents/Resources/timer.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Copy Build/Maatchee/Build/Products/Debug/Maatchee.app/Contents/Resources/timer.png98"CpResource timer.png Build/Maatchee/Build/Products/Debug/Maatchee.app/Contents/Resources/timer.pngf6403f1d6c81b941^77d93f1d6c81b941^---0#0#1#-19%DVTDocumentLocation2@120"file:///Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Products/Debug/Maatchee.app/Contents/Resources/timer.png00345cb1deffdf42^404"CpResource timer.png Build/Maatchee/Build/Products/Debug/Maatchee.app/Contents/Resources/timer.png    cd /Users/giriputra/LAB/XCode/Maatchee    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/giriputra/LAB/XCode/Maatchee/timer.png /Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Products/Debug/Maatchee.app/Contents/Resources36"B7A06627-02BC-44C9-B59E-04F579424417-
+b53F0A0DE-8F87-40AF-A5FC-6B0A46F73E79
+
+CCpResource tutorial.png Build/Maatchee/Build/Products/Debug/Maatchee.app/Contents/Resources/tutorial.png
+s427912221.181562
+e427912221.183037
+r1
+xCpResource
+xtutorial.png
+xBuild/Maatchee/Build/Products/Debug/Maatchee.app/Contents/Resources/tutorial.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Copy Build/Maatchee/Build/Products/Debug/Maatchee.app/Contents/Resources/tutorial.png104"CpResource tutorial.png Build/Maatchee/Build/Products/Debug/Maatchee.app/Contents/Resources/tutorial.png058c2e1d6c81b941^0cb13e1d6c81b941^---0#0#1#-19%DVTDocumentLocation2@123"file:///Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Products/Debug/Maatchee.app/Contents/Resources/tutorial.png00345cb1deffdf42^413"CpResource tutorial.png Build/Maatchee/Build/Products/Debug/Maatchee.app/Contents/Resources/tutorial.png    cd /Users/giriputra/LAB/XCode/Maatchee    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/giriputra/LAB/XCode/Maatchee/tutorial.png /Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Products/Debug/Maatchee.app/Contents/Resources36"90F8CCB5-18AF-4B7D-8B3E-18C2619A3D8A-
+b53F0A0DE-8F87-40AF-A5FC-6B0A46F73E79
+
+CLd /Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Products/Debug/Maatchee.app/Contents/MacOS/Maatchee normal x86_64
+s427912221.060975
+e427912221.169084
+r1
+xLd
+x/Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Products/Debug/Maatchee.app/Contents/MacOS/Maatchee
+xnormal
+xx86_64
+d/Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Objects-normal/x86_64/Maatchee.LinkFileList
+d/Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Objects-normal/x86_64/GameOverScene.o
+d/Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Objects-normal/x86_64/MyScene.o
+d/Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Objects-normal/x86_64/MenuScene.o
+d/Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Objects-normal/x86_64/ArrowSprite.o
+d/Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Objects-normal/x86_64/GameScene.o
+d/Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Objects-normal/x86_64/main.o
+d/Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Objects-normal/x86_64/AppDelegate.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/SpriteKit.framework/SpriteKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.osx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AudioUnit.framework/AudioUnit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/MediaToolbox.framework/MediaToolbox
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/IOKit.framework/IOKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ImageIO.framework/ImageIO
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/IOSurface.framework/IOSurface
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreMIDI.framework/CoreMIDI
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/CoreServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreAudio.framework/CoreAudio
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/DiskArbitration.framework/DiskArbitration
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/OpenGL
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AppKit.framework/AppKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AVFoundation.framework/Versions/A/Resources/libAVFAudio.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/ATS
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ColorSync.framework/Versions/A/ColorSync
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/HIServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/LangAnalysis.framework/Versions/A/LangAnalysis
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/PrintCore.framework/Versions/A/PrintCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/QD.framework/Versions/A/QD
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/SpeechSynthesis.framework/Versions/A/SpeechSynthesis
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/CarbonCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Metadata
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/OSServices.framework/Versions/A/OSServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/SearchKit.framework/Versions/A/SearchKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/AE.framework/Versions/A/AE
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/LaunchServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/DictionaryServices.framework/Versions/A/DictionaryServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/QuartzCore.framework/Versions/A/Frameworks/CoreImage.framework/Versions/A/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/QuartzCore.framework/Versions/A/Frameworks/ScalableUserInterface.framework/Versions/A/ScalableUserInterface
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGLU.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGL.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"Link /Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Products/Debug/Maatchee.app/Contents/MacOS/Maatchee89"Ld Build/Maatchee/Build/Products/Debug/Maatchee.app/Contents/MacOS/Maatchee normal x86_64deae0f1d6c81b941^ab983e1d6c81b941^---0#0#1#--1102"Ld Build/Maatchee/Build/Products/Debug/Maatchee.app/Contents/MacOS/Maatchee normal x86_64    cd /Users/giriputra/LAB/XCode/Maatchee    export MACOSX_DEPLOYMENT_TARGET=10.9    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Products/Debug -F/Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Products/Debug -filelist /Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Objects-normal/x86_64/Maatchee.LinkFileList -mmacosx-version-min=10.9 -fobjc-arc -fobjc-link-runtime -framework SpriteKit -framework Cocoa -Xlinker -dependency_info -Xlinker /Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Objects-normal/x86_64/Maatchee_dependency_info.dat -o /Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Products/Debug/Maatchee.app/Contents/MacOS/Maatchee36"852A727C-CDD5-4394-A2D0-15785DC370A5-
+b53F0A0DE-8F87-40AF-A5FC-6B0A46F73E79
+
+CProcessInfoPlistFile /Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Products/Debug/Maatchee.app/Contents/Info.plist /Users/giriputra/LAB/XCode/Maatchee/Maatchee/Maatchee-Info.plist
+s427912222.872415
+e427912222.875172
+r1
+xProcessInfoPlistFile
+x/Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Products/Debug/Maatchee.app/Contents/Info.plist
+x/Users/giriputra/LAB/XCode/Maatchee/Maatchee/Maatchee-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Process /Users/giriputra/LAB/XCode/Maatchee/Maatchee/Maatchee-Info.plist118"ProcessInfoPlistFile Build/Maatchee/Build/Products/Debug/Maatchee.app/Contents/Info.plist Maatchee/Maatchee-Info.plist8865df1e6c81b941^ed0be01e6c81b941^---0#0#1#-19%DVTDocumentLocation2@71"file:///Users/giriputra/LAB/XCode/Maatchee/Maatchee/Maatchee-Info.plist0000000000000000^680"ProcessInfoPlistFile Build/Maatchee/Build/Products/Debug/Maatchee.app/Contents/Info.plist Maatchee/Maatchee-Info.plist    cd /Users/giriputra/LAB/XCode/Maatchee    builtin-infoPlistUtility /Users/giriputra/LAB/XCode/Maatchee/Maatchee/Maatchee-Info.plist -genpkginfo /Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Products/Debug/Maatchee.app/Contents/PkgInfo -expandbuildsettings -platform macosx -additionalcontentfile /Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/assetcatalog_generated_info.plist -o /Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Products/Debug/Maatchee.app/Contents/Info.plist36"4AD60B2A-8F18-44DC-A7C9-9C9CD1629ED1-
+b53F0A0DE-8F87-40AF-A5FC-6B0A46F73E79
+
+CProcessPCH /Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/PrecompiledHeaders/Maatchee-Prefix-fmdhiqajefqtoufaftfthqwmwwyj/Maatchee-Prefix.pch.pch Maatchee/Maatchee-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s427912218.094275
+e427912218.808226
+r1
+xProcessPCH
+x/Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/PrecompiledHeaders/Maatchee-Prefix-fmdhiqajefqtoufaftfthqwmwwyj/Maatchee-Prefix.pch.pch
+xMaatchee/Maatchee-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/giriputra/LAB/XCode/Maatchee/Maatchee/Maatchee-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile Maatchee/Maatchee-Prefix.pch232"ProcessPCH Build/Maatchee/Build/Intermediates/PrecompiledHeaders/Maatchee-Prefix-fmdhiqajefqtoufaftfthqwmwwyj/Maatchee-Prefix.pch.pch Maatchee/Maatchee-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilera73e181a6c81b941^5ce8ce1a6c81b941^---0#0#1#-19%DVTDocumentLocation2@71"file:///Users/giriputra/LAB/XCode/Maatchee/Maatchee/Maatchee-Prefix.pch0000000000000000^3289"ProcessPCH Build/Maatchee/Build/Intermediates/PrecompiledHeaders/Maatchee-Prefix-fmdhiqajefqtoufaftfthqwmwwyj/Maatchee-Prefix.pch.pch Maatchee/Maatchee-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/giriputra/LAB/XCode/Maatchee    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/giriputra/LAB/XCode/Maatchee/Build/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Maatchee-generated-files.hmap -I/Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Maatchee-own-target-headers.hmap -I/Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Maatchee-all-target-headers.hmap -iquote /Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/Maatchee-project-headers.hmap -I/Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/DerivedSources/x86_64 -I/Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/Maatchee.build/Debug/Maatchee.build/DerivedSources -F/Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Products/Debug --serialize-diagnostics /Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/PrecompiledHeaders/Maatchee-Prefix-fmdhiqajefqtoufaftfthqwmwwyj/Maatchee-Prefix.pch.dia -MMD -MT dependencies -MF /Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/PrecompiledHeaders/Maatchee-Prefix-fmdhiqajefqtoufaftfthqwmwwyj/Maatchee-Prefix.pch.d -c /Users/giriputra/LAB/XCode/Maatchee/Maatchee/Maatchee-Prefix.pch -o /Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Intermediates/PrecompiledHeaders/Maatchee-Prefix-fmdhiqajefqtoufaftfthqwmwwyj/Maatchee-Prefix.pch.pch36"DFE904AD-DFE3-4A87-BC90-FC27745FA35E-
+b53F0A0DE-8F87-40AF-A5FC-6B0A46F73E79
+
+CProcessPCH /Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Index/PrecompiledHeaders/Maatchee-Prefix-futtgnmyoscndccgficakourkqcz_ast/Maatchee-Prefix.pch.pch Maatchee/Maatchee-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Products/Debug/Maatchee.app
+s427912222.876281
+e427912222.882783
+r1
+xTouch
+x/Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Products/Debug/Maatchee.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Touch /Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Products/Debug/Maatchee.app54"Touch Build/Maatchee/Build/Products/Debug/Maatchee.appb262e01e6c81b941^200ae21e6c81b941^---0#0#1#--205"Touch Build/Maatchee/Build/Products/Debug/Maatchee.app    cd /Users/giriputra/LAB/XCode/Maatchee    /usr/bin/touch -c /Users/giriputra/LAB/XCode/Maatchee/Build/Maatchee/Build/Products/Debug/Maatchee.app36"A4699F0A-A7E6-48B9-BF80-B596D33B43ED-
+b53F0A0DE-8F87-40AF-A5FC-6B0A46F73E79
+
